@@ -5,13 +5,13 @@
 
 <h1 align="center">Hi 👋, I'm Nathalia</h1>
 <h3 align="center">Olá, meu nome é Nathalia e sou uma programadora apaixonada por tecnologia. Desde o momento em que produzi meu primeiro "Hello World" no console de um aplicativo durante meu curso técnico, soube que estava no mundo do desenvolvimento de software.Mas para mim, desenvolver software nunca foi apenas um trabalho - é uma paixão que só cresce a cada ano.
-
+<br>
 
 Atualmente, sou uma estudante de técnico de informática no Senac, na unidade de Nova Iguaçu, com 23 anos de idade. Eu já trabalhei com manutenção de periféricos e prestava pequenos serviços como troca de fontes, memórias e massas térmicas.
-
+<br>
 
 No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estudando novas tecnologias e linguagens de programação para melhorar minhas habilidades e criar jogos, meu verdadeiro amor é a programação de jogos. Estou sempre estudando novas tecnologias e linguagens de programação para melhorar minhas habilidades e criar jogos em 2D e 3D. Adoro aplicar meu conhecimento para resolver problemas e aprender ainda mais.
-
+<br>
 Estou em busca de novas oportunidades para crescer profissionalmente e agregar valor ao meu conhecimento de desenvolvimento de software. Sou uma pessoa dedicada e motivada, sempre buscando desafios que me fizeram aprender e crescer como programadora.
 .</h3>
 
