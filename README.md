@@ -67,3 +67,7 @@ Estou em busca de novas oportunidades para crescer profissionalmente e agregar v
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ 
+ 
+ ![Snake animation](https://github.com/NathaliaRibeiro/NathaliaRibeiro/blob/output/github-contribution-grid-snake.svg)
+
