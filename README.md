@@ -66,4 +66,4 @@ No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estuda
   <br>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f23d7a&height=120&section=header"/>
