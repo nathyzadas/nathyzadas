@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f23d7a&height=120&section=header"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <h1 align="center">Olá, sou Nathalia! 👋🌸</h1>
 <h3 align="center">Programadora apaixonada por tecnologia e desenvolvimento de software.</h3>
