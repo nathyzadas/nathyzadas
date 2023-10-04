@@ -8,12 +8,18 @@
 <h3 align="center">Programadora apaixonada por tecnologia e desenvolvimento de software.</h3>
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Desde o momento em que produzi meu primeiro "Hello World" no console de um aplicativo durante meu curso técnico, soube que estava no mundo do desenvolvimento de software. Mas para mim, desenvolver software nunca foi apenas um trabalho - é uma paixão que só cresce a cada ano. Atualmente, sou uma estudante de técnico de informática no Senac, na unidade de Nova Iguaçu, com 23 anos de idade. Eu já trabalhei com manutenção de periféricos e prestava pequenos serviços como troca de fontes, memórias e massas térmicas. No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estudando novas tecnologias e linguagens de programação para melhorar minhas habilidades e criar jogos em 2D e 3D. Adoro aplicar meu conhecimento para resolver problemas e aprender ainda mais. Estou em busca de novas oportunidades para crescer profissionalmente e agregar valor ao meu conhecimento de desenvolvimento de software. Sou uma pessoa dedicada e motivada, sempre buscando desafios que me fizeram aprender e crescer como programadora.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: 
+  <img src="https://img.shields.io/badge/-HTML-FF69B4?style=flat-square&logo=html5&labelColor=FF69B4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-FF69B4?style=flat-square&logo=css3&labelColor=FF69B4&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-FF69B4?style=flat-square&logo=javascript&labelColor=FF69B4&textColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-Java-FF69B4?style=flat-square&logo=java&labelColor=FF69B4&textColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-PHP-FF69B4?style=flat-square&logo=php&labelColor=FF69B4&textColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-Angular-FF69B4?style=flat-square&logo=angular&labelColor=FF69B4&textColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-React-FF69B4?style=flat-square&logo=react&labelColor=FF69B4&textColor=FF69B4"/>
 </p>
 
 <p align="left">
