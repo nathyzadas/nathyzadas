@@ -17,9 +17,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nathalia+Ribeiro+Mathias;I'm+23+years+old;I+from+Nova+Iguaçu,+RJ;I+study+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Nathalia</h1>
-<h3 align="center">Olá, meu nome é Nathalia e sou uma programadora apaixonada por tecnologia. Desde o momento em que produzi meu primeiro "Hello World" no console de um aplicativo durante meu curso técnico, soube que estava no mundo do desenvolvimento de software. Mas para mim, desenvolver software nunca foi apenas um trabalho - é uma paixão que só cresce a cada ano. Atualmente, sou uma estudante de técnico de informática no Senac, na unidade de Nova Iguaçu, com 23 anos de idade. Eu já trabalhei com manutenção de periféricos e prestava pequenos serviços como troca de fontes, memórias e massas térmicas. No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estudando novas tecnologias e linguagens de programação para melhorar minhas habilidades e criar jogos em 2D e 3D. Adoro aplicar meu conhecimento para resolver problemas e aprender ainda mais. Estou em busca de novas oportunidades para crescer profissionalmente e agregar valor ao meu conhecimento de desenvolvimento de software. Sou uma pessoa dedicada e motivada, sempre buscando desafios que me fizeram aprender e crescer como programadora.
-.</h3>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathaliaRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nathalia Ribeiro Mathias github stats" /> 
