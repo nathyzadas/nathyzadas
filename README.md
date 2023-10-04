@@ -17,7 +17,7 @@ No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estuda
 </p>
 <br>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f23d7a&height=120&section=header"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nathalia+Ribeiro+Mathias;I'm+23+years+old;I+from+Nova+Iguaçu,+RJ;I+study+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
