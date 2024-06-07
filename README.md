@@ -69,4 +69,4 @@ No entanto, meu verdadeiro amor é a programação de jogos. Estou sempre estuda
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f23d7a&height=120&section=header"/>
 
- # ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+ # ![snake gif](https://github.com/nathyzadas/nathyzadas/blob/output/github-contribution-grid-snake.gif)
